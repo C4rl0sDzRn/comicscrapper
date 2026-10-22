@@ -1,0 +1,17 @@
+﻿# --- secretos (nunca subir) ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+id_rsa*
+credentials*
+# --- sistema ---
+Thumbs.db
+desktop.ini
+.DS_Store
+# --- logs y temporales ---
+*.log
+*.tmp
+*.bak
